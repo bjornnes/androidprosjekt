@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="langLabel">Click here for english</string>
+</resources>
